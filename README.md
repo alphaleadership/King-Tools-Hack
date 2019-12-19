@@ -1,10 +1,12 @@
 # King Tools Hack
 
 ##### How To Use?
-1. Download the script
-2. Extract it to a directory (or white git cmd ```git clone https://github.com/Izox-github/botdiscordhack.git``` )
-3. Put your token
-4. Type this command
+
+1. Download and configure nodejs
+2. Download the script
+3. Extract it to a directory (or white git cmd ```git clone https://github.com/Izox-github/botdiscordhack.git``` )
+4. Put your token
+5. Type this command
     ```sh
     user@user:~/king/tools/hack$ npm install 
     ```
