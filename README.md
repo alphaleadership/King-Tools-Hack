@@ -2,7 +2,7 @@
 
 ##### How To Use?
 
-1. Download and configure nodejs
+1.  Download and configure [nodejs](https://nodejs.org/en/) if not yet
 2. Download the script
 3. Extract it to a directory (or white git cmd ```git clone https://github.com/Izox-github/botdiscordhack.git``` )
 4. Put your token
