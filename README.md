@@ -1,8 +1,8 @@
 # King Tools Hack
 
-##### How to use?
+##### Comment l'utulisé?
 1. Download the script
-2. Extract it to a directory (or white git cmd ```git clone https://github.com/Izox-github/king-tools-hack.git``` )
+2. Extract it to a directory (or white git cmd ```git clone https://github.com/Izox-github/botdiscordhack.git``` )
 3. Put your token
 4. Type this command
     ```sh
