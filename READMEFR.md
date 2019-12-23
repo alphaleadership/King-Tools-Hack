@@ -30,7 +30,8 @@ Envoie des messages [cb que vous voulez] a TOUTE les membres du servers
 1. Télechargé et configuré [nodejs](https://nodejs.org/en/) if not yet
 2. Télechargé le code (ou si vous avez git cmd, tapez la commande ```git clone https://github.com/Izox-github/botdiscordhack.git``` )
 3. Extract les fichiers
-5. Tqpe cette commande
+4. Ouvre powershell ou cmd
+5. Tape cette commande
     ```sh
     user@user:~/king/tools/hack$ npm install
     ```
