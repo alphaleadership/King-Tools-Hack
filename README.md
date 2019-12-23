@@ -41,9 +41,9 @@ This attack send a private message to all members of a server, except bots.
 ## 😒 If there is a problem :
 1. Check if you have put the correct bot token
 
-##### 💛 Thank !
+#### 💛 Thank !
 Thank you for using my app!, And I'm proud to make it happen!    ❤
 
 
-##### ⚡ Credits :
+#### ⚡ Credits :
 By Izox (Filix) https://discord.gg/95U5w7t -- https://github.com/Izox-github/botdiscordhack
