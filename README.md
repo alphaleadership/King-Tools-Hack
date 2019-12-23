@@ -14,10 +14,12 @@ This attack is only avaible when the bot has the required permissions.
 ```Channels Maker
 Create channels
 This attack is only avaible when the bot has the required permissions.
+```
 
 ```Channels spammer
 Spam messages in channels
 This attack send some messages in all text channels of a server. 
+```
 
 ```Spammer
 Send private messages
