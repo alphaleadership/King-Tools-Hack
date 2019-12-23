@@ -1,5 +1,28 @@
 # 😏 King Tools Hack 
+## 🔎 What is inside 
+```Last judgement
+Ban all members of a server
+This attack is only avaible when the bot has the required permissions.
+```
 
+```Spring cleaning
+Delete channels
+This attack is only avaible when the bot has the required permissions.
+```
+
+
+```Channels Maker
+Create channels
+This attack is only avaible when the bot has the required permissions.
+
+```Channels spammer
+Spam messages in channels
+This attack send some messages in all text channels of a server. 
+
+```Spammer
+Send private messages
+This attack send a private message to all members of a server, except bots. 
+```
 ## 🤔 How To Use?
 
 1. Download and configure [nodejs](https://nodejs.org/en/) if not yet
