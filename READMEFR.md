@@ -42,9 +42,9 @@ Envoie des messages [cb que vous voulez] a TOUTE les membres du servers
 ## 😒 Si vous avez en problême:
 1. Verfifié si vous avez mis le bon token.
 
-##### 💛 Thank !
+### 💛 Thank !
 Merci d'utulise mon application!Je suis fier de vous le fair passé❤
 
 
-##### ⚡ Credits :
+#### ⚡ Credits :
 By Izox (Filix) https://discord.gg/95U5w7t -- https://github.com/Izox-github/botdiscordhack
