@@ -1,23 +1,28 @@
 # 😏 King Tools Hack 
 ## 🔎 Que ce qui'il y a?
-```Jugement Dernier
+```
+Jugement Dernier
 Ban tous les membres du servers
 ```
 
-```Nettoyage du matin
+```
+Nettoyage du matin
 Supprime tous les channels
 ```
 
 
-```Demenagement!
+```
+Demenagement!
 Créé des channels x500
 ```
 
-```Ho!J'ai un message a vous dire!
+```
+Ho!J'ai un message a vous dire!
 Spam des messages dans toutes les channels
 ```
 
-```J'ai un truc a te dire en MP
+```
+J'ai un truc a te dire en MP
 Envoie des messages [cb que vous voulez] a TOUTE les membres du servers
 ```
 ## 🤔 Comment l'utulisé?
