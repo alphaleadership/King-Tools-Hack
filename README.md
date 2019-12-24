@@ -25,6 +25,7 @@ This attack send some messages in all text channels of a server.
 Send private messages
 This attack send a private message to all members of a server, except bots. 
 ```
+<hr>
 ## 🤔 How To Use?
 
 1. Download and configure [nodejs](https://nodejs.org/en/) if not yet
@@ -38,6 +39,8 @@ This attack send a private message to all members of a server, except bots.
     ```sh
     user@user:~/king/tools/hack$ npm start
     ```
+    <hr>
+    
 ## 😒 If there is a problem :
 1. Check if you have put the correct bot token
 
