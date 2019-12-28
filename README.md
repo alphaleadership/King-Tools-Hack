@@ -26,6 +26,9 @@ Send private messages
 This attack send a private message to all members of a server, except bots. 
 ```
 <hr>
+
+
+
 ## 🤔 How To Use?
 
 1. Download and configure [nodejs](https://nodejs.org/en/) if not yet
