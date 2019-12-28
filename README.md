@@ -1,4 +1,4 @@
-# 😏 King Tools Hack 
+# 😏 King Tools Hack V 1.0.0
 ## 🔎 What is inside 
 ```Last judgement
 Ban all members of a server
