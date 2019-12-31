@@ -52,5 +52,5 @@ Thank you for using my app!, And I'm proud to make it happen!    ❤
 
 
 #### ⚡ Credits :
-By Izox (Filix) https://discord.gg/95U5w7t -- https://github.com/Izox-github/botdiscordhack
+By Izox (Filix) https://discord.gg/95U5w7t -- https://github.com/Izox-github/
 
