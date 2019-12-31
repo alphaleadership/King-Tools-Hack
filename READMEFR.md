@@ -28,8 +28,8 @@ Envoie des messages [cb que vous voulez] a TOUTE les membres du servers
 ## 🤔 Comment l'utulisé?
 
 1. Télechargé et configuré [nodejs](https://nodejs.org/en/) if not yet
-2. Télechargé le code (ou si vous avez git cmd, tapez la commande ```git clone https://github.com/Izox-github/botdiscordhack.git``` )
-3. Extract les fichiers
+2. Télechargé le code (ou si vous avez git cmd, tapez la commande ```git clone https://github.com/Izox-github/King-Tools-Hack.git``` )
+3. Extraire les fichiers
 4. Ouvre powershell ou cmd
 5. Tape cette commande
     ```sh
@@ -42,9 +42,16 @@ Envoie des messages [cb que vous voulez] a TOUTE les membres du servers
 ## 😒 Si vous avez en problême:
 1. Verfifié si vous avez mis le bon token.
 
-### 💛 Thank !
+## 💛 Thank !
 Merci d'utulise mon application!Je suis fier de vous le fair passé❤
 
+## ⚡ Credits :
+By Izox (Filix) https://discord.gg/95U5w7t -- https://github.com/Izox-github/
 
-#### ⚡ Credits :
-By Izox (Filix) https://discord.gg/95U5w7t -- https://github.com/Izox-github/botdiscordhack
+## 🤩 Donation :
+
+Paypal: https://www.paypal.me/izoxpaypala
+
+Thanks to future donators ! ❤️
+
+
