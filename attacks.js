@@ -159,3 +159,4 @@ class Attacks {
 }
 
 module.exports = new Attacks
+
