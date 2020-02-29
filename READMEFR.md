@@ -43,16 +43,12 @@ Envoie des messages [cb que vous voulez] a TOUTE les membres du servers
 1. Verfifié si vous avez mis le bon token.
 
 ## 💛 Thank !
-Merci d'utulise mon application!Je suis fier de vous le fair passé❤
+Merci d'utulisé mon application!Je suis fier de vous le fair passé❤
 
 ## ⚡ Credits :
-By Izox (Filix) https://discord.gg/95U5w7t -- https://github.com/Izox-github/
+By Izox -- https://github.com/Izox-github/
 
-## 🤩 Donation :
 
-Paypal: https://www.paypal.me/izoxpaypala
-
-Thanks to future donators ! ❤️
 
 
 
