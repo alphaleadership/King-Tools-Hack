@@ -52,11 +52,4 @@ Thank you for using my app!, And I'm proud to make it happen!    ❤
 
 
 ## ⚡ Credits :
-By Izox (Filix) https://discord.gg/95U5w7t -- https://github.com/Izox-github/
-
-## 🤩 Donation :
-
-Paypal: https://www.paypal.me/izoxpaypala
-
-Thanks to future donators ! ❤️
-
+By Izox -- https://github.com/Izox-github/
