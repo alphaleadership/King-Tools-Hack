@@ -1,6 +1,7 @@
 const errors = require("./errors.js")
 const events = require("./events.js")
 const Discord = require("discord.js")
+var config = require("./config.json")
 class LoginButton {
 
     loginButtonChange = (value = String) => {
@@ -32,7 +33,8 @@ class LoginButton {
     }
 
     loginBot = (client = new Discord.Client()) => {
-        const token = document.getElementById("token-field").value
+        const token = 
+        config.token
         client.login(token).then((_) => {
             this.client = client
             this.loginButtonChange("disconnect")
